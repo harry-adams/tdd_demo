@@ -2,7 +2,7 @@ import string
 
 import pytest
 
-from src.fizzbuzz import Fizzbuzz
+from fizzbuzz import Fizzbuzz
 
 
 def test_fizzbuzz():
